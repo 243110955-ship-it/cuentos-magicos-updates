@@ -1,0 +1,8 @@
+venv/
+build/
+dist/
+EnviarAOtraCompu/
+modelo_cuentos_entrenado_v4/
+__pycache__/
+*.pyc
+actualizacion.zip
