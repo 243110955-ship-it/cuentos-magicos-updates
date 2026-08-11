@@ -1,3 +1,3 @@
-{
-  "lm_studio_url": "http://localhost:1234/v1/chat/completions"
+﻿{
+    "lm_studio_url":  "https://unsigned-benchmark-newspapers-taste.trycloudflare.com/v1/chat/completions"
 }
